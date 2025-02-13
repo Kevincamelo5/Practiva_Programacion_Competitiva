@@ -1,5 +1,4 @@
 //
-// Created by Kevin L. Camelo S. on 06/02/2025.
 //
 
 #ifndef PILAS2_H
